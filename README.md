@@ -9,7 +9,7 @@ I am passionate about using data to uncover patterns, improve decision making, a
 
 **Seed Project Ideas:**
  * To analyse soccer match datasets to identify the factors that influence match outcomes and team success.
- * Build a predictive model that uses player statistics to predict player perfomance and potential injury risks.
+ * Create a dashboard that tracks player performance over multiple seasons and identifies trends such as improvement, decline, or consistency.
    
 **Still to Grow:**
  * Technical Skill:
@@ -18,4 +18,5 @@ I am passionate about using data to uncover patterns, improve decision making, a
    * Communication - When it comes to soft skills I would like to improve my ability to communicate data insights clearly to both technical audience and non-technical audiences, as this is an essential skill for a Data Scientist.
  
 **Goals:**
- * 30 Day Goal - 
+ * 30 Day Goal - Join an online Python and Machine Learning fundamentals bootcamp and parctice analysing a small sport dataset.
+ * 6 Month Goal - Build and publish at least one complete sports analytics project on GitHub that includes data cleaning, visualisations, insights, and predictive analysis.

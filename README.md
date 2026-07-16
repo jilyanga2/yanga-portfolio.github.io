@@ -14,3 +14,4 @@ I am passionate about using data to uncover patterns, improve decision making, a
 **Still to Grow:**
  * Technical Skill:
     * Machine Learning - I would really like to enhance my knowledge of ML techniques and tools such as Python, Pandasand other tools to analyse sports data and build predictive models.
+* Soft Skill: 

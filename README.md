@@ -15,4 +15,7 @@ I am passionate about using data to uncover patterns, improve decision making, a
  * Technical Skill:
     * Machine Learning - I would really like to enhance my knowledge of ML techniques and tools such as Python, Pandasand other tools to analyse sports data and build predictive models.
 * Soft Skill:
-   * Communication - When it comes to soft skills I would like to improve my ability to communicate data insights clearly to both technical audience and non-technical audiences, as this is an essential skill for a Data Scientist.  
+   * Communication - When it comes to soft skills I would like to improve my ability to communicate data insights clearly to both technical audience and non-technical audiences, as this is an essential skill for a Data Scientist.
+ 
+**Goals:**
+ * 30 Day Goal - 

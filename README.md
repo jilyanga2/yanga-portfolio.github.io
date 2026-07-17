@@ -8,7 +8,7 @@ I am passionate about using data to uncover patterns, improve decision making, a
 * I chose this role because I enjoy working with data, solving problems, and finding insights that can assist organisations make better decisions. The sport domain interests me because it combines my passion for sports with data-driven analysis and predictive modelling.
 
 **Seed Project Ideas:**
- * To analyse soccer match datasets to identify the factors that influence match outcomes and team success.
+ * To analyse Premier League data to determine which player and team statistics contribute most to winning matches. Here past data is used to predict which team has higher chances of winning the league.
  * Create a dashboard that tracks player performance over multiple seasons and identifies trends such as improvement, decline, or consistency.
    
 **Still to Grow:**

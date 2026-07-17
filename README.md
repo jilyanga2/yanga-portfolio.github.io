@@ -1,6 +1,7 @@
 # yanga-shaper.github.io
 
 <h2>Phase 2 | My Portfolio</h2>
+
 **Mini Bio:**
 
 <p>Hi, I'm <b>Yanga Jilaji</b> an aspiring Data Scientist with a strong interest in sports analytics. 

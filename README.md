@@ -1,11 +1,9 @@
-# yanga-shaper.github.io
-
-<h2>Phase 2 | My Portfolio</h2>
+# Phase 2 | My Portfolio
 
 **Mini Bio:**
 
-<p>Hi, I'm <b>Yanga Jilaji</b> an aspiring Data Scientist with a strong interest in sports analytics. 
-I am passionate about using data to uncover patterns, improve decision making, and analyse player and team performance in sports.</p>
+Hi, I'm <b>Yanga Jilaji</b> an aspiring Data Scientist with a strong interest in sports analytics. 
+I am passionate about using data to uncover patterns, improve decision making, and analyse player and team performance in sports.
 
 **Target Role:**
 * My target role is to become a Data Scientist.
@@ -25,4 +23,4 @@ I am passionate about using data to uncover patterns, improve decision making, a
  * 30 Day Goal:
      * Join an online Python and Machine Learning fundamentals bootcamp and parctice analysing a small dataset to enhance my data analysis skills
  * 6 Months Goal:
-      * Develop an analytics dashboard, for example <u>soccer analytics</u> dashboard that visualises player and team performance statistics, and present my findings in a professional portfolio.
+      * Develop an analytics dashboard, for example <i>soccer analytics</i> dashboard that visualises player and team performance statistics, and present my findings in a professional portfolio.
